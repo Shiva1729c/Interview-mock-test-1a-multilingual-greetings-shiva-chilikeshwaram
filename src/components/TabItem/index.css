@@ -1,0 +1,20 @@
+.tab-item {
+  margin-right: 20px;
+}
+
+.tab-button {
+  width: 80px;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  border-radius: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+}
